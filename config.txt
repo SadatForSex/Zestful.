@@ -1,4 +1,4 @@
-token= NTMyOTQ0NzYzMDUwMTMxNDY2.Dxj4Lw.zK9RWLtOCQQZrhP0yMnbFo_oLdM
+token= client.login(process.env.BOT_TOKEN);
 owner= 512065633488470036
 prefix= 6
 game= Type | 6help
